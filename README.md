@@ -1,4 +1,4 @@
-# GTA V Loading Screen Clone
+# Grand Theft Auto V — Loading Screen
 
 A standalone recreation of the Grand Theft Auto V loading screen, running entirely in the browser with no dependencies.
 
